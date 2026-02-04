@@ -8,7 +8,7 @@
 	<h2> Es mi primera página</h2>
 	<p> Esta es la pagina principal
 	<br>Nombre:Marcos Rodriguez Nistal
-	<br>Correo:<a href = "marcos.rodriguez.nistal@udc.es">marcos.rodriguez.nistal@udc.es</a></p>
+	<br>Correo:<a href = "marcos.rodriguez.nistal@udc.es">marcos.rodriguez.nistal@udc.es</a>
 	<br>Gracias a <a href="https://freedns.afraid.org">Free_DNS</a> por el servicio ofrecido</p>
 	<img src="images/ineffa.jpg" alt="Personaje del genshin">
 
