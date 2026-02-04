@@ -1,16 +1,16 @@
-<html lang = "es">
+<html lang = "es"><!-- Declaracion del lenguaje principal-->
 <head>
-	<meta charset="UTF-8">
-	<title>Mi-sitio-Web</title>
+	<meta charset="UTF-8"><!-- poder añadir las tildes...-->
+	<title>Mi-pagina-web</title><!--Nombre pagina web-->
 </head>
 <body>
 	<h1>Bienvenido a mi página para Redes</h1>
-	<h2> Es mi primera página</h2>
-	<p> Esta es la pagina principal
-	<br>Nombre:Marcos Rodriguez Nistal
+	<h2> Informacion principal</h2>
+	<p> Esta es la pagina principal... Aunque no hay mucho
+	<br>Nombre:Marcos Rodríguez Nistal
 	<br>Correo:<a href = "mailto:marcos.rodriguez.nistal@udc.es">marcos.rodriguez.nistal@udc.es</a>
-	<br>Gracias a <a href="https://freedns.afraid.org">Free_DNS</a> por el servicio ofrecido<br>
-	<figure>
+	<br>Gracias a <a href="https://freedns.afraid.org">Free_DNS</a> por el servicio ofrecido<br> <!-- Hipervinculo a free dns e hipervinculo al correo-->
+	<figure><!--Imagen y gif junto a un pie que dice que personaje es y de que juego-->
 	<img src="images/ineffa.jpg" alt="Personaje del Genshin Impact">
 	<figcaption>Ineffa from Genshin Impact</figcaption>
 	</figure>
